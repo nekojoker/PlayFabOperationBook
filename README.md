@@ -5,6 +5,11 @@ https://nekojoker.booth.pm/items/2364132
 
 ## 改訂履歴
 
+### ver 1.2 (2021/11/15)
+
+- PlayFabCloudScriptPlugin を使用する前提条件を削除
+- 著者紹介ページを最新化
+
 ### ver 1.1 (2021/03/20)
 
 - 誤字脱字の修正
